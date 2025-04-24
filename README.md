@@ -10,3 +10,5 @@ com base nos produtos oferecidos pela Bautista Enterprise.
 Ferramentas usadas: Python (programação) e tensorflow.keras.preprocessing.image (processamento de imagem)
 
 ![image](https://github.com/user-attachments/assets/7a9ecdfc-d93e-4637-b8b6-ea30eb08956f)
+
+Projeto em Pausa temporária.
