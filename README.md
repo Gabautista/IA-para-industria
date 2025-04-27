@@ -9,7 +9,9 @@ com base nos produtos oferecidos pela Bautista Enterprise.
 
 Ferramentas usadas: Python (programação) e tensorflow.keras.preprocessing.image (processamento de imagem)
 
-Veja a teoria que estou aprendendo em: [Aprendizado de máquina (Notion)](https://www.notion.so/1e21e0963836808cb313ff5741dcf287?v=1e21e09638368039acb3000cb50f573d&pvs=4)
+Veja a teoria que estou aprendendo em: <a href="[URL_DA_PAGINA_NOTION](https://www.notion.so/1e21e0963836808cb313ff5741dcf287?v=1e21e09638368039acb3000cb50f573d&pvs=4)">
+  <img src="URL_DA_IMAGEM" alt="Notion" width="100">
+</a>
 
 ![image](https://github.com/user-attachments/assets/7a9ecdfc-d93e-4637-b8b6-ea30eb08956f)
 
